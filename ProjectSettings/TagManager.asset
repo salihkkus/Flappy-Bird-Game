@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Arkaplan
+    uniqueID: 2776860119
+    locked: 0
+  - name: Pipe
+    uniqueID: 3073870795
+    locked: 0
+  - name: Zemin
+    uniqueID: 499958831
+    locked: 0
+  - name: Bird
+    uniqueID: 527735379
+    locked: 0
