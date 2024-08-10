@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Scorer
+  - Pipe
   layers:
   - Default
   - TransparentFX
@@ -52,4 +54,7 @@ TagManager:
     locked: 0
   - name: Bird
     uniqueID: 527735379
+    locked: 0
+  - name: Canvas
+    uniqueID: 1641646123
     locked: 0
