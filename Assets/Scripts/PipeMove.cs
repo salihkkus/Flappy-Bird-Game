@@ -4,15 +4,10 @@ using UnityEngine;
 
 public class PipeMove : MonoBehaviour
 {
-   
-    void Start()
-    {
-        
-    }
+   public float speed;
 
-    
     void Update()
     {
-        
+        transform.position += Vector3.left * speed * Time.deltaTime; 
     }
 }
